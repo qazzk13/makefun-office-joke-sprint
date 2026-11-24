@@ -8,7 +8,7 @@ One office joke in one line, entered in make.fun's "One-Line Office Joke: 24-Hou
 
 > Our floor's printer has been waiting on a part since March, and honestly it's the only one here whose five-year plan is actually on track.
 
-Every office has this printer. The little sign taped to it has been rewritten twice, the part is always "arriving Friday," and nobody remembers which Friday anyone meant. Meanwhile the rest of us update our goals in a spreadsheet once a year and call that a plan, so the printer is winning and it isn't close.
+Every office has this printer. The little sign taped to it has been rewritten twice, the part is always "arriving Friday," and nobody can say which Friday anyone meant. Meanwhile the rest of us update our goals in a spreadsheet once a year and call that a plan, so the printer is winning and it isn't close.
 
 ## Run it
 

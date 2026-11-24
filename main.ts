@@ -2,7 +2,7 @@ process.umask(0o022);
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One-Line Office Joke: 24-Hour Sprint — make.fun entry (program/v1).
-// Writes a single office joke, 1-200 characters, to /output/entry.txt.
+// Writes one single-line office joke, 1-200 characters, to /output/entry.txt.
 // No network, no model call, no randomness: the same joke every run.
 
 const JOKE =
